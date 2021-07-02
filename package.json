@@ -15,6 +15,7 @@
 	],
 	"main": "./dist/extension.js",
 	"browser": "./dist/extension.js",
+	"repository": "https://github.com/microsoft/vscode-smoketest-check",
 	"contributes": {
 		"commands": [
 			{
