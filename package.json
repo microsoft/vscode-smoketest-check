@@ -1,6 +1,6 @@
 {
 	"name": "vscode-smoketest-check",
-	"publisher": "vscode",
+	"publisher": "ms-vscode",
 	"displayName": "vscode-smoketest-check",
 	"description": "A test extension used for smoke testing VS Code Extensions UI ",
 	"version": "0.0.1",
